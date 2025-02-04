@@ -2,6 +2,8 @@
 
 This is a **Telegram bot** that utilizes a **deep learning model** to upscale images using **Swift-SRGAN**. The bot runs in a **Jupyter Notebook** and employs **PyTorch** for inference.
 
+Kaggle Notebook link: https://www.kaggle.com/code/vladimirmaksimov/image-resolution-booster
+
 ## 🚀 Features
 - Accepts images from Telegram users
 - Processes images with a **Super-Resolution GAN (SRGAN)** model
